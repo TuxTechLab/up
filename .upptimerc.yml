@@ -13,6 +13,11 @@ sites:
     url: https://linktr.ee
   - name: LinkTree Admin Dashboard
     url: https://linktr.ee/arindamtanti
+  # Project 
+  - name: TuxTechLab Home
+    url: https://www.TuxTechLab.com
+  - name: Blogs by TuxTechLab
+    url: https://tuxtechlab.github.io/Blogs/
   # Test Broken Websites
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
