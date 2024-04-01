@@ -14,10 +14,15 @@ sites:
   - name: LinkTree Admin Dashboard
     url: https://linktr.ee/arindamtanti
   # Project 
+  
+  # Homepage
   - name: TuxTechLab Home
     url: https://www.TuxTechLab.com
+  
+  # Blog Site
   - name: Blogs by TuxTechLab
-    url: https://tuxtechlab.github.io/Blogs
+    url: https://blogs.tuxtechlab.com
+    
   # Test Broken Websites
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
@@ -30,8 +35,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /up
+  cname: up.tuxtechlab.com
+  # baseUrl: /up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: up
   introTitle: "[**Up**](https://tuxtechlab.github.io/up/) is the uptime monitor and status page, powered entirely by GitHub powered by [**Upptime**](https://github.com/upptime/upptime)."
