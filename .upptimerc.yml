@@ -3,16 +3,20 @@ owner: TuxTechLab # GitHub organization or username, where this repository lives
 repo: up # The name of this repository
 
 sites:
-  # Actual Websites
+  # Important Websites
   - name: Google
     url: https://www.google.com
   - name: GitHub
     url: https://www.github.com
+  - name: GoDaddy
+    url: https://www.godaddy.com
+
   # Social Pages
   - name: LinkTree
     url: https://linktr.ee
   - name: LinkTree Admin Dashboard
     url: https://linktr.ee/arindamtanti
+  
   # Project 
   
   # Homepage
@@ -22,7 +26,7 @@ sites:
   # Blog Site
   - name: Blogs by TuxTechLab
     url: https://blogs.tuxtechlab.com
-    
+
   # Test Broken Websites
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
