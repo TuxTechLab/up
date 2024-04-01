@@ -36,6 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "GoDaddy",
+    "url": "https://www.godaddy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.godaddy.com.ico",
+    "slug": "go-daddy",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "LinkTree",
     "url": "https://linktr.ee",
     "icon": "https://icons.duckduckgo.com/ip3/linktr.ee.ico",
@@ -88,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 1247,
+      "2024-04-01": 1256,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
