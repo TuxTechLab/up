@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 84,
+      "2024-04-01": 1159,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -101,9 +101,9 @@
     "url": "https://tuxtechlab.github.io/Blogs",
     "icon": "https://icons.duckduckgo.com/ip3/tuxtechlab.github.io.ico",
     "slug": "blogs-by-tux-tech-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,7 +112,9 @@
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-01": 0
+    }
   },
   {
     "name": "Test Broken Site",
