@@ -40,18 +40,20 @@
     "url": "https://www.godaddy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.godaddy.com.ico",
     "slug": "go-daddy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 791,
-    "timeWeek": 644,
-    "timeMonth": 601,
-    "timeYear": 601,
-    "dailyMinutesDown": {}
+    "time": 559,
+    "timeDay": 445,
+    "timeWeek": 576,
+    "timeMonth": 559,
+    "timeYear": 559,
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   },
   {
     "name": "LinkTree",
@@ -106,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-11": 79,
+      "2024-04-11": 358,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
