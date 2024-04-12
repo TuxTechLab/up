@@ -9,7 +9,7 @@ sites:
   - name: GitHub
     url: https://www.github.com
   - name: GoDaddy
-    url: https://www.godaddy.com
+    url: https://www.godaddy.com/en-in
 
   # Social Pages
   - name: LinkTree
