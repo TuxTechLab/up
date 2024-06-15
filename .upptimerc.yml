@@ -24,7 +24,7 @@ sites:
     url: https://www.TuxTechLab.com
   
   # Blog Site
-  - name: Blogs by TuxTechLab
+  - name: TuxTechBlog
     url: https://blogs.tuxtechlab.com
 
   # Test Broken Websites
@@ -41,10 +41,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.tuxtechlab.com
   # baseUrl: /up
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/TuxTechLab/up/master/assets/upptime-icon.svg
   name: up
-  introTitle: "[**Up**](https://tuxtechlab.github.io/up/) is the uptime monitor and status page, powered entirely by GitHub powered by [**Upptime**](https://github.com/upptime/upptime)."
-  introMessage: A sample status page which uses **real-time** data from our [GitHub repository](https://github.com/tuxtechlab/up). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "[**Up**](https://up.tuxtechlab.com) is the uptime monitor and status page, powered entirely by GitHub powered by [**Upptime**](https://upptime.js.org/)."
+  introMessage: TuxTechLab StatusPage managed via [GitHub repository](https://github.com/tuxtechlab/up). Serverless soltion utilizes GitHub Actions, Issues, and Pages. [**Get your own for free**](https://upptime.js.org)
   navbar:
     - title: Status
       href: /

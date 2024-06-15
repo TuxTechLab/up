@@ -3,11 +3,11 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: 'bug'
-assignees: 'AnandChowdhary'
+assignees: 'i-Am-GhOsT'
 
 ---
 
-<!-- If you have a question, you should use Discussions instead: https://github.com/upptime/upptime/discussions -->
+If you have a question, you should use Discussions instead: [TuxTechLab GitHub Discussions](https://github.com/orgs/TuxTechLab/discussions/categories/ideas)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
