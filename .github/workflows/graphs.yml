@@ -12,7 +12,7 @@
 # * Source: https://github.com/upptime/upptime
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
-# * More by TuxTechLab: https://www.tuxtechlab.com
+
 
 name: Graphs CI
 on:
@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
