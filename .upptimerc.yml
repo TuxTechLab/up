@@ -44,7 +44,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/TuxTechLab/up/master/assets/upptime-icon.svg
   name: up
   introTitle: "[**Up**](https://up.tuxtechlab.com) is the uptime monitor and status page, powered entirely by GitHub powered by [**Upptime**](https://upptime.js.org/)."
-  introMessage: TuxTechLab StatusPage managed via [GitHub repository](https://github.com/tuxtechlab/up). Serverless soltion utilizes GitHub Actions, Issues, and Pages. [**Get your own for free**](https://upptime.js.org)
+  introMessage: TuxTechLab StatusPage managed via [TuxTechLab/up](https://github.com/tuxtechlab/up) GitHub Repo. Serverless soltion utilizes GitHub Actions, Issues, and Pages. [**Get your own for free**](https://upptime.js.org)
   navbar:
     - title: Status
       href: /
