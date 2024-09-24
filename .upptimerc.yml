@@ -22,6 +22,9 @@ sites:
   # Homepage
   - name: TuxTechLab Home
     url: https://www.TuxTechLab.com
+    assignees: # Users to assign downtime issues (optional)
+    - i-Am-GhOsT
+
   
   # Blog Site
   - name: TuxTechBlog
